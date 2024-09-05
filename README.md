@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Zhen Peng
+
+### About Me
+💻 Fullstack Developer | Blockchain Developer
+
+I am a passionate software developer with over 5 years of experience.
+
+### Skills
+
+* Languages: Golang, Nodejs, TypeScript, Java
+* Frameworks: Gin, Eggjs, React, Vue, Nextjs
+* Cloud Native: Docker, Kubernetes
+
+### Proojects
+
+I currently maintain the following projects:
+
+* shisui: https://github.com/optimism-java/shisui
+* superproof frontend: https://github.com/optimism-java/dispute-explorer-frontend
+
+![](https://komarev.com/ghpvc/?username=fearlessfe&style=brightgreen)
 
 <!--
 **fearlessfe/fearlessfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
