@@ -19,6 +19,10 @@ I currently maintain the following projects:
 * superproof frontend: https://github.com/optimism-java/dispute-explorer-frontend
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fearlessfe&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fearlessfe&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fearlessfe&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fearlessfe&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fearlessfe&theme=default&utcOffset=8)
 
 ![](https://komarev.com/ghpvc/?username=fearlessfe&style=brightgreen)
 <!--
