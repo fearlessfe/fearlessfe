@@ -18,8 +18,9 @@ I currently maintain the following projects:
 * shisui: https://github.com/optimism-java/shisui
 * superproof frontend: https://github.com/optimism-java/dispute-explorer-frontend
 
-![](https://komarev.com/ghpvc/?username=fearlessfe&style=brightgreen)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fearlessfe&theme=vue)
 
+![](https://komarev.com/ghpvc/?username=fearlessfe&style=brightgreen)
 <!--
 **fearlessfe/fearlessfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
