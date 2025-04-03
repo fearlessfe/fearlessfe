@@ -15,7 +15,7 @@ I am a passionate software developer with over 5 years of experience.
 
 I currently maintain the following projects:
 
-* shisui: https://github.com/optimism-java/shisui
+* shisui: https://github.com/zen-eth/shisui
 * superproof frontend: https://github.com/optimism-java/dispute-explorer-frontend
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fearlessfe&theme=vue)
